@@ -1,16 +1,4 @@
-# flutter_demo
+#flutter Stateful Counter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (236)](https://user-images.githubusercontent.com/74914169/150629445-c4a9152c-a6c9-477e-908a-cc9040f55f43.png)
+![Screenshot (237)](https://user-images.githubusercontent.com/74914169/150629447-bd5c2c54-6c64-4851-9590-668b144136e2.png)
